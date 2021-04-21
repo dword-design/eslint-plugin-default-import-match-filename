@@ -1,0 +1,35 @@
+{
+  "name": "eslint-plugin-default-import-match-filename",
+  "version": "1.0.0",
+  "repository": "dword-design/eslint-plugin-default-import-match-filename",
+  "funding": "https://www.buymeacoffee.com/dword",
+  "license": "MIT",
+  "author": "Sebastian Landwehr <info@dword-design.de>",
+  "main": "dist/index.js",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "checkUnknownFiles": "base checkUnknownFiles",
+    "commit": "base commit",
+    "dev": "base dev",
+    "lint": "base lint",
+    "prepare": "base prepare",
+    "prepublishOnly": "base prepublishOnly",
+    "test": "base test"
+  },
+  "dependencies": {
+    "minimatch": "^3.0.4"
+  },
+  "devDependencies": {
+    "@dword-design/base": "^7.13.4",
+    "@dword-design/functions": "^3.0.2",
+    "@dword-design/tester": "^1.2.6",
+    "@dword-design/tester-plugin-tmp-dir": "^1.0.2",
+    "eslint": "^7.24.0",
+    "output-files": "^1.1.26"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}
