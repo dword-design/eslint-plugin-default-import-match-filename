@@ -22,7 +22,7 @@
     "minimatch": "^3.0.4"
   },
   "devDependencies": {
-    "@dword-design/base": "^7.13.4",
+    "@dword-design/base": "^8.0.0",
     "@dword-design/functions": "^3.0.2",
     "@dword-design/tester": "^1.2.6",
     "@dword-design/tester-plugin-tmp-dir": "^1.0.2",
