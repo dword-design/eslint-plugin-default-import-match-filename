@@ -29,6 +29,9 @@
     "eslint": "^7.24.0",
     "output-files": "^1.1.26"
   },
+  "engines": {
+    "node": ">=12"
+  },
   "publishConfig": {
     "access": "public"
   }
