@@ -25,7 +25,7 @@
     "@dword-design/base": "^8.0.0",
     "@dword-design/functions": "^3.0.2",
     "@dword-design/tester": "^1.2.6",
-    "@dword-design/tester-plugin-tmp-dir": "^1.0.2",
+    "@dword-design/tester-plugin-tmp-dir": "^2.0.0",
     "eslint": "^7.24.0",
     "output-files": "^2.0.0"
   },
