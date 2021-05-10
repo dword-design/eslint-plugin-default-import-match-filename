@@ -7,10 +7,8 @@ export default {
     recommended: {
       plugins: [packageConfig.name],
       rules: {
-        [`${packageConfig.name.replace(
-          /^eslint-plugin-/,
-          ''
-        )}/match-filename`]: 'error',
+        [`${packageConfig.name.replace(/^eslint-plugin-/, '')}/match-filename`]:
+          'error',
       },
     },
   },
