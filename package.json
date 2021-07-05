@@ -2,7 +2,7 @@
   "name": "eslint-plugin-default-import-match-filename",
   "version": "1.0.0",
   "repository": "dword-design/eslint-plugin-default-import-match-filename",
-  "funding": "https://www.buymeacoffee.com/dword",
+  "funding": "https://github.com/sponsors/dword-design",
   "license": "MIT",
   "author": "Sebastian Landwehr <info@sebastianlandwehr.com>",
   "main": "dist/index.js",
