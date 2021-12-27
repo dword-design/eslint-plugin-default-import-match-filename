@@ -3,7 +3,7 @@
 <!-- /TITLE -->
 
 <!-- BADGES/ -->
-  <p>
+<p>
     <a href="https://npmjs.org/package/eslint-plugin-default-import-match-filename">
       <img
         src="https://img.shields.io/npm/v/eslint-plugin-default-import-match-filename.svg"
