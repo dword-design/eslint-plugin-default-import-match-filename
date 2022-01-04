@@ -6,6 +6,7 @@
   "license": "MIT",
   "author": "Sebastian Landwehr <info@sebastianlandwehr.com>",
   "main": "dist/index.js",
+  "private": true,
   "files": [
     "dist"
   ],
