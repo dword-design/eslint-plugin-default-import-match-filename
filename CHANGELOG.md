@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/dword-design/eslint-plugin-default-import-match-filename/compare/v1.0.0...v1.0.1) (2022-01-12)
+
+
+### Bug Fixes
+
+* update config files ([67cd5ec](https://github.com/dword-design/eslint-plugin-default-import-match-filename/commit/67cd5ecc001a95c84443f4c0abf7046d32e9b964))
+
 # 1.0.0 (2022-01-04)
 
 
