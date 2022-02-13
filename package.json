@@ -20,7 +20,7 @@
     "test": "base test"
   },
   "dependencies": {
-    "minimatch": "^3.0.4"
+    "minimatch": "^4.0.0"
   },
   "devDependencies": {
     "@dword-design/base": "^8.0.0",
